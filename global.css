@@ -3,6 +3,10 @@
   --font-size-small: calc(0.75 * var(--font-size-standard));
 }
 
+.black {
+  color: black;
+}
+
 .slide {
   background-color: #111;
   color: white;
