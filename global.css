@@ -1,0 +1,18 @@
+:root {
+  --font-size-standard: 1em;
+  --font-size-small: calc(0.75 * var(--font-size-standard));
+}
+
+.slide {
+  background-color: #111;
+  color: white;
+}
+
+.slide::after {
+  background-image: none;
+}
+
+.intro p,
+.intro ul {
+  font-size: var(--font-size-small);
+}
