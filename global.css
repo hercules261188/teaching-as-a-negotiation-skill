@@ -20,8 +20,13 @@
   font-size: smaller;
 }
 
-.bugs {
+.bugs,
+.great-power {
   line-height: 1;
   position: absolute;
   bottom: 1em;
+}
+
+.almost-invisible {
+  opacity: 0.1;
 }
