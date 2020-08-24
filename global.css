@@ -32,3 +32,10 @@
   position: absolute;
   top: 1em;
 }
+
+.a-bit-different {
+  position: absolute;
+  left: 6em;
+  bottom: 2em;
+  font-size: 0.5em;
+}
