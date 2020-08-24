@@ -26,3 +26,9 @@
   position: absolute;
   bottom: 1em;
 }
+
+.safety-first {
+  line-height: 1;
+  position: absolute;
+  top: 1em;
+}
